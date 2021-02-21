@@ -1,0 +1,1 @@
+# emlakotomasyonu_desktop
