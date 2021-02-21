@@ -1,0 +1,29 @@
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\bin\Debug\emlakodev.exe.config
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\bin\Debug\emlakodev.exe
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\bin\Debug\emlakodev.pdb
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.csprojResolveAssemblyReference.cache
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Form1.resources
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Properties.Resources.resources
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.csproj.GenerateResource.Cache
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.exe
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.pdb
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Form2.resources
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Form3.resources
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Form4.resources
+c:\users\ridvanpc\documents\visual studio 2012\Projects\emlakodev\emlakodev\obj\Debug\emlakodev.Form5.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\bin\Debug\emlakodev.exe.config
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.exe
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.pdb
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\bin\Debug\emlakodev.exe
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\bin\Debug\emlakodev.pdb
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Form1.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Form2.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Form3.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Form4.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Form5.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.Properties.Resources.resources
+D:\Yeni klasör\Desktop\emlakodev\emlakodev\obj\Debug\emlakodev.csproj.GenerateResource.Cache
+C:\Users\RIDVANPC\Desktop\emlak sitesi\bitti\emlakodev\emlakodev\bin\Debug\emlakodev.exe.config
+C:\Users\RIDVANPC\Desktop\emlak sitesi\bitti\emlakodev\emlakodev\obj\Debug\emlakodev.exe
+C:\Users\RIDVANPC\Desktop\emlak sitesi\bitti\emlakodev\emlakodev\obj\Debug\emlakodev.pdb
